@@ -1,7 +1,3 @@
-
-![Logo](https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png)
-
-
 # Introduction To Java BootCamp
 
 This repository contains all the problems that you can practice in order to make your base strong before starting with Data Structures and Algorithms.
